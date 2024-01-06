@@ -877,12 +877,28 @@ a {
     }
 
     .services__content__descripion .box .inner img {
-        width: 30px;
+        width: 40px;
         margin-bottom: var(--mb-1);
     }
 
     .services__content__descripion .box .inner {
         font-size: 0.8rem;
         
+    }
+
+    .testimonials__content-leitura {
+        padding: 2rem;
+    }
+
+    .testimonials__box-leitura {
+        position: relative;
+        padding: 5px;
+        width: 80%;
+    }
+
+    .testimonials__box {
+       
+        padding: 5px;
+        width: 80%;
     }
 }
