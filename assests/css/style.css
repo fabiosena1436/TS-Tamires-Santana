@@ -390,6 +390,14 @@ a {
     filter: drop-shadow(16px 16px 16px rgba(0, 0, 0, 0.25));
 }
 
+.about__img-manicure img {
+    width: 98%;
+    border-radius: 30px;
+    filter: drop-shadow(16px 16px 16px rgba(0, 0, 0, 0.25));
+}
+
+
+
 .about__descripion {
     width: 104%;
     position: relative;
@@ -865,6 +873,8 @@ a {
         font-size: 1.5rem;
     }
 
+    
+
     .area-valor {
         font-size: 0.8rem;
     }
@@ -936,6 +946,10 @@ a {
         margin-bottom: 100px;
     }
 
+    .img-logo-footer {
+        display: none;
+    }
+
     .testimonials__name h1 {
         font-size: 1.5rem;
     }
@@ -945,7 +959,7 @@ a {
     }
 
     .testimonials__descripition p {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
 
     .leitura {
