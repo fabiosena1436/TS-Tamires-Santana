@@ -895,6 +895,14 @@ a {
         padding: 1rem;
     }
 
+    .about {
+    width: 100%;
+    background-image: url(../img/arabesco);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    z-index: var(--z_negative);
+    }
+
     .services__content__descripion .box .inner img {
         width: 60px;
         margin-bottom: var(--mb-1);
