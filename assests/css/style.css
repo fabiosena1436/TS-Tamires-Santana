@@ -714,7 +714,7 @@ a {
 
 .footer__data-social .social__icon {
     color: var(--first-color);
-    font-size: var(--h2-font-size);
+    font-size: 50px;
 }
 
 .footer__data-social .social__icon:hover {
@@ -944,6 +944,10 @@ a {
     .footer__list {
         display: block;
         margin-bottom: 100px;
+    }
+
+    .footer__data-social .social__icon {
+        font-size: 30px;
     }
 
     .img-logo-footer {
