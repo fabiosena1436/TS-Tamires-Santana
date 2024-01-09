@@ -933,12 +933,12 @@ a {
     }
 
     .footer__data h2 {
-        font-size: 0.9rem;
+        font-size: 1.3rem;
 
     }
 
     .footer__data p {
-        font-size: 0.5rem;
+        font-size: 0.9rem;
     }
 
     .footer__list {
@@ -969,8 +969,6 @@ a {
     .leitura {
         font-size: 0.6rem;
     }
-
-   
 
     .testimonials__card {
         width: 100%;
