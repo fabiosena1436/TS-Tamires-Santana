@@ -331,8 +331,9 @@ a {
 }
 
 .img-abertura {
-    margin-left: 201px;
-    width: 270px;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 60%;
     filter: drop-shadow(16px 16px 16px rgba(0, 0, 0, 0.25));
 }
 
