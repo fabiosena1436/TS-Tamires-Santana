@@ -923,6 +923,10 @@ a {
         font-size: 0.6rem;
     }
 
+    .btn__outline {
+        width: 280px;
+    }
+
     .testimonials__content-leitura {
         padding: 2rem;
     }
