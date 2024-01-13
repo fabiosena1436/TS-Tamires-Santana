@@ -918,7 +918,10 @@ a {
         padding: 0 20px;
     }
 
-    
+    .btn {
+        width: 150px;
+        font-size: 0.6rem;
+    }
 
     .testimonials__content-leitura {
         padding: 2rem;
